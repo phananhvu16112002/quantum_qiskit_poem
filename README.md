@@ -80,8 +80,3 @@ curl -X POST "http://localhost:8000/shuffle" \
   ```json
   { "detail": "Danh sách dữ liệu không được rỗng" }
   ```
-
-
----
-
-Nếu bạn muốn mình giúp tạo thêm badge, thêm hình ảnh mô tả, hoặc viết thêm phần "About the project", cứ nói nhé!
