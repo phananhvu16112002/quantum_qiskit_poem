@@ -1,7 +1,7 @@
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from typing import List
-from hello_qiskit import QuantumPoetryGenerator
+from app.hello_qiskit import QuantumPoetryGenerator
 
 app = FastAPI(title="Quantum Poetry Generator API")
 
